@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore data folders and sensitive file types
+data/
+*.csv
+*.xlsx
+*.json
+*.zip
