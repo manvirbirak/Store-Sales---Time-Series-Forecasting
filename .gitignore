@@ -179,3 +179,7 @@ data/
 *.xlsx
 *.json
 *.zip
+
+# Python virtual environment
+venv/
+
