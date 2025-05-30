@@ -191,3 +191,5 @@ env/
 *.log
 logs/
 .cache/
+
+**/AppData/Local/Temp/
