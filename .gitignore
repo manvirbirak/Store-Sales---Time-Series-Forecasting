@@ -182,4 +182,12 @@ data/
 
 # Python virtual environment
 venv/
+.venv/
+env/
 
+
+.vscode/
+
+*.log
+logs/
+.cache/
