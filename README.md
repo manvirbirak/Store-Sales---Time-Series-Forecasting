@@ -4,3 +4,5 @@ Time-series forecasting to forecast store sales on data from Corporación Favori
 Specifically, building a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores. To practice my machine learning skills with an approachable training dataset of dates, store, and item information, promotions, and unit sales.
 
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
+
+Result: Positon(432), Score (0.67225)
