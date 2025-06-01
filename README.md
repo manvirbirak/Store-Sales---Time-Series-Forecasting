@@ -5,4 +5,9 @@ Specifically, building a model that more accurately predicts the unit sales for 
 
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
 
-Result: Positon(432), Score (0.67225)
+XGBoost Result: Positon(432), Score (0.67225)
+OLS Regression Model Result: Score: 0.91707
+Hierarchical Model Result: Score: 0.92246
+K-Nearest Neighbors Regresson Result: Score: 1.34793
+
+
